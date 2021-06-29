@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-image: url(https://media2.giphy.com/media/5n5CPcCgv8dkByKoxN/giphy.gif?cid=ecf05e47ijtnbpcnpmfqiqnfs0y0lj7bziys3bvldb1y3ufi&rid=giphy.gif&ct=g);
+}
+
+h1 {
+  color: rgb(212, 212, 174);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 100px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+}
+
+img {
+  width: 400px;
+}
+
+thirdDiv {
+  height: 600px;
+  width: 500px;
+  padding: 50 px;
+  border-color: black;
+  border: 3px yellow;
+}
+
+#spanid {
+  font-size: 18 px;
+  margin: 50px;
+}
