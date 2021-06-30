@@ -22,8 +22,8 @@ thirdDiv {
   height: 600px;
   width: 500px;
   padding: 50 px;
-  border-color: black;
-  border: 3px yellow;
+  border-color: 3px solid rgb(244, 255, 89);
+  background-color: rgb(238, 238, 76);
 }
 
 #spanid {
